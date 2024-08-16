@@ -5,7 +5,7 @@
 
 <h2>Features</h2>
 <ul>
-  <li><strong>Character Types:</strong> Users can choose to include/exclude:
+  <li><strong>Character Types:</strong>
     <ul>
       <li>Uppercase letters</li>
       <li>Lowercase letters</li>
@@ -38,7 +38,7 @@
 
 <h2>Screenshot</h2>
 <p>Below is a screenshot of the Password Generator interface:</p>
-<img src="https://github.com/piyush-upadhyay-26/password-generator/blob/main/icons8-copy-30.png" alt="Password Generator Screenshot" width="600">
+<img src="https://github.com/piyush-upadhyay-26/password-generator/blob/main/Screenshot_1.png" alt="Password Generator Screenshot" width="600">
 
 <h2>Contributing</h2>
 <p>Contributions are welcome! If you have suggestions or improvements, feel free to open an issue or submit a pull request.</p>
